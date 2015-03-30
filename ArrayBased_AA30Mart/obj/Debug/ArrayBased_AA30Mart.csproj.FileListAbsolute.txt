@@ -1,0 +1,6 @@
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\bin\Debug\ArrayBased_AA30Mart.exe.config
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\bin\Debug\ArrayBased_AA30Mart.exe
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\bin\Debug\ArrayBased_AA30Mart.pdb
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\obj\Debug\ArrayBased_AA30Mart.csprojResolveAssemblyReference.cache
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\obj\Debug\ArrayBased_AA30Mart.exe
+c:\users\ömer\documents\visual studio 2013\Projects\ArrayBased_AA30Mart\ArrayBased_AA30Mart\obj\Debug\ArrayBased_AA30Mart.pdb
